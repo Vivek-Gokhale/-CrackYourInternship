@@ -1,5 +1,5 @@
 
-// 11. Three Sum
+// 11. Three_Sum
 
 #include <bits/stdc++.h>
 using namespace std;

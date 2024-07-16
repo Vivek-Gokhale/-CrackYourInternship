@@ -1,4 +1,4 @@
-// Chocolate Distribution Problem
+// Chocolate_Distribution_Problem
 
 #include <bits/stdc++.h>
 using namespace std;

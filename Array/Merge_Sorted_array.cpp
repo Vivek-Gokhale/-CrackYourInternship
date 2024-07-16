@@ -1,4 +1,4 @@
-// Merge Sorted array
+// Merge_Sorted_array
 
 #include <bits/stdc++.h>
 using namespace std;

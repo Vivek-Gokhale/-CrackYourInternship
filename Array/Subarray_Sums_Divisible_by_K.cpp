@@ -1,4 +1,4 @@
-// Subarray Sums Divisible by K
+// Subarray_Sums_Divisible_by_K
 
 #include <bits/stdc++.h>
 using namespace std;

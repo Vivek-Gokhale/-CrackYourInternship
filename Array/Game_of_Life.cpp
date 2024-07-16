@@ -1,4 +1,4 @@
-// 11. Game of Life
+// 11. Game_of_Life
 
 #include <bits/stdc++.h>
 using namespace std;

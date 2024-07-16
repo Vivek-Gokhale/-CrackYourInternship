@@ -1,4 +1,4 @@
-// 11. Four Sum
+// 11. Four_Sum
 
 #include <bits/stdc++.h>
 using namespace std;

@@ -1,4 +1,4 @@
-// 11. Unique permutation
+// 11. Unique_permutation
 
 #include <bits/stdc++.h>
 using namespace std;

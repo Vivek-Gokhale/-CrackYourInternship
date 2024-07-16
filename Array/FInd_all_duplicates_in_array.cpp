@@ -1,4 +1,4 @@
-// FInd all duplicates in array
+// FInd_all_duplicates_in_array
 #include <bits/stdc++.h>
 using namespace std;
 class Solution {

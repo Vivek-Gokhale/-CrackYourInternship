@@ -1,4 +1,4 @@
-// Majority Elements
+// Majority_Elements
 
 #include <bits/stdc++.h>
 using namespace std;

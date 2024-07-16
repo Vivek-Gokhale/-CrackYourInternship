@@ -1,4 +1,4 @@
-// 11. Largest Rectangle in Histogram
+// 11. Largest_Rectangle_in_Histogram
 
 
 #include <bits/stdc++.h>

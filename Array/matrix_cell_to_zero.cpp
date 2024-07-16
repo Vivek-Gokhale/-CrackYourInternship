@@ -1,4 +1,4 @@
-//set matrix cell to zero
+//set matrix_cell_to_zero
 #include <bits/stdc++.h>
 using namespace std;
 class Solution {

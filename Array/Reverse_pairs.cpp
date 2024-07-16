@@ -1,4 +1,4 @@
-// Reverse pairs
+// Reverse_pairs
 
 #include <bits/stdc++.h>
 using namespace std;

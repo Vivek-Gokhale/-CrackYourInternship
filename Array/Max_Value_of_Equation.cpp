@@ -1,4 +1,4 @@
-// 11. Max Value of Equation
+// 11. Max_Value_of_Equation
 
 
 #include <bits/stdc++.h>

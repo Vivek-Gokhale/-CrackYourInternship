@@ -1,4 +1,4 @@
-// 121. Best Time to Buy and Sell Stock
+// 121. Best_Time_to_Buy_and_Sell_Stock
 
 #include <bits/stdc++.h>
 using namespace std;

@@ -1,4 +1,4 @@
-// 11. Sub array sum equals to k
+// 11. Sub_array_sum_equals_to_k
 
 #include <bits/stdc++.h>
 using namespace std;

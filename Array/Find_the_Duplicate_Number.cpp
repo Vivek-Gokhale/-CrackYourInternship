@@ -1,4 +1,4 @@
-// 287. Find the Duplicate Number
+// 287. Find_the_Duplicate_Number
 #include <bits/stdc++.h>
 using namespace std;
 class Solution {

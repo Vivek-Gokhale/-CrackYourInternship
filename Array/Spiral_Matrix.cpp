@@ -1,4 +1,4 @@
-// 11. 54. Spiral Matrix
+// 11. 54. Spiral_Matrix
 
 #include <bits/stdc++.h>
 using namespace std;

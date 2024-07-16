@@ -1,4 +1,4 @@
-// 283. Move Zeroes
+// 283. Move_Zeroes
 
 #include <bits/stdc++.h>
 using namespace std;

@@ -1,4 +1,4 @@
-// 287. Sort Colors
+// 287. Sort_Colors
 #include <bits/stdc++.h>
 using namespace std;
 class Solution {

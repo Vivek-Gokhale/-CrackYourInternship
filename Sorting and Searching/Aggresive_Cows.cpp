@@ -3,7 +3,7 @@
 
 #include <bits/stdc++.h>
 using namespace std;
-using namespace std;
+
 
 bool isFeasible(vector<int>& stalls, int n, int c, int dist) {
     int count = 1; // Place the first cow in the first stall
